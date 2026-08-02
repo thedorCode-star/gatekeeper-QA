@@ -6,13 +6,23 @@
 
 # Vision
 
-(To be completed)
+To become a trusted quality engineering partner that helps software teams worldwide build reliable products and release with confidence.
 
 ---
 
 # Mission
 
-(To be completed)
+Gatekeeper QA helps SaaS startups improve software quality through professional testing, automation, and quality engineering practices, enabling teams to deliver better products and create better experiences for their users.
+
+---
+
+# Company Values
+
+- Trust
+- Quality
+- Collaboration
+- Continuous Improvement
+- Professionalism
 
 ---
 
