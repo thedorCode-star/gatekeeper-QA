@@ -32,6 +32,30 @@ Sprint 0 - Business Foundation
 
 ---
 
+# Target Customers
+
+## Primary Market
+
+SaaS startups building web and cloud applications.
+
+## Ideal Customer Profile
+
+- Early-stage startups
+- 5–50 employees
+- Preparing launch or scaling products
+- Need external QA expertise
+
+## Problems We Solve
+
+- Bugs reaching users
+- Lack of testing process
+- Limited QA resources
+- Low release confidence
+
+## Positioning
+
+Gatekeeper QA helps SaaS startups build confidence in their software through professional testing, automation, and quality engineering support.git
+
 # Project Phases
 
 ## Phase 0 - Business Foundation
