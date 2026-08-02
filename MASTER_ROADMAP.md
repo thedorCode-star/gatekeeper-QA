@@ -128,6 +128,25 @@ QA Discovery Session
 
 Acquire 5 recurring SaaS startup clients.
 
+# Client Onboarding Process
+
+## Steps
+
+1. Discovery Call
+2. Client Qualification
+3. Proposal
+4. Kickoff
+5. Requirements Review
+6. Test Planning
+7. Testing Execution
+8. QA Reporting
+9. Retrospective
+10. Continuous Partnership
+
+## Principle
+
+Provide transparency, confidence, and measurable quality improvement.
+
 # Project Phases
 
 ## Phase 0 - Business Foundation
