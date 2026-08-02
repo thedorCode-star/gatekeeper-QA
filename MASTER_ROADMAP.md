@@ -56,6 +56,27 @@ SaaS startups building web and cloud applications.
 
 Gatekeeper QA helps SaaS startups build confidence in their software through professional testing, automation, and quality engineering support.git
 
+# Services
+
+## Core Services
+
+### QA Health Check
+Identify software risks before they impact users.
+
+### Release Readiness Testing
+Validate products before important releases.
+
+### Continuous QA Partnership
+Provide ongoing external QA support.
+
+## Future Services
+
+### QA Automation Engineering
+Automate testing and improve delivery speed.
+
+### Developer Quality Consulting
+Help engineering teams build better quality practices.
+
 # Project Phases
 
 ## Phase 0 - Business Foundation
