@@ -147,6 +147,30 @@ Acquire 5 recurring SaaS startup clients.
 
 Provide transparency, confidence, and measurable quality improvement.
 
+# QA Methodology
+
+## Process
+
+1. Understand product requirements
+2. Identify risks
+3. Create test strategy
+4. Perform exploratory and functional testing
+5. Document defects
+6. Provide quality recommendations
+
+## Testing Types
+
+- Functional Testing
+- Exploratory Testing
+- Regression Testing
+- API Testing
+- Automation Testing
+- Performance Testing (future)
+
+## Goal
+
+Help software teams release reliable products with confidence.
+
 # Project Phases
 
 ## Phase 0 - Business Foundation
