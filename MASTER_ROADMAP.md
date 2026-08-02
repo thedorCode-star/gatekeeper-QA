@@ -104,6 +104,30 @@ Automate testing and improve delivery speed.
 ### Developer Quality Consulting
 Help engineering teams build better quality practices.
 
+# Client Acquisition Strategy
+
+## Primary Channels
+
+- LinkedIn
+- GitHub
+- Startup communities
+- Direct outreach
+
+## Trust Building
+
+- Professional website
+- QA case studies
+- Testing examples
+- Public learning journey
+
+## First Offer
+
+QA Discovery Session
+
+## First Year Goal
+
+Acquire 5 recurring SaaS startup clients.
+
 # Project Phases
 
 ## Phase 0 - Business Foundation
