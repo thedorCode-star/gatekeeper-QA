@@ -171,6 +171,42 @@ Provide transparency, confidence, and measurable quality improvement.
 
 Help software teams release reliable products with confidence.
 
+# Tool Strategy
+
+## Principle
+
+Tools support our QA process. We adapt to client environments.
+
+## Internal Stack
+
+### Management
+- GitHub Projects
+
+### Documentation
+- Markdown
+- GitHub
+
+### API Testing
+- Postman
+
+### Automation
+- Playwright
+- TypeScript
+
+### Performance Testing
+- k6 (future)
+
+### CI/CD
+- GitHub Actions
+
+## Client Integration
+
+Gatekeeper QA can work with:
+- Jira
+- Azure DevOps
+- Linear
+- Other client systems
+
 # Project Phases
 
 ## Phase 0 - Business Foundation
