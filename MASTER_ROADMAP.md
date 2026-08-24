@@ -55,7 +55,7 @@ Modern, professional, premium, and trustworthy.
 
 # Current Stage
 
-Phase 2 complete — ready for Phase 3 (Website Development) / Vercel
+Phase 3 — Website Development (priority pages in progress; Pricing/Blog and Vercel still open)
 
 ---
 
@@ -241,12 +241,12 @@ Gatekeeper QA can work with:
 ---
 
 ## Phase 3 - Website Development
-- [ ] Homepage
-- [ ] About
-- [ ] Services
-- [ ] Process
+- [x] Homepage
+- [x] About
+- [x] Services
+- [x] Process
 - [ ] Pricing
-- [ ] Contact
+- [x] Contact
 - [ ] Blog
 
 ---

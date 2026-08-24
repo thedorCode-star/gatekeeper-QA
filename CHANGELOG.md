@@ -2,6 +2,8 @@
 
 ## 2026-08-24
 
+- Built Phase 3 priority pages: shared header/footer, Home, Services, Contact, plus About and Process
+- Added contact form API (`/api/contact`) with client-side validation and success/error states
 - Added website wireframes (`Docs/07-wireframes.md`) for shared chrome, Home, Services, Contact
 - Marked Phase 2 wireframes complete; Phase 2 ready for Phase 3 build
 - Added website user stories and acceptance criteria (`Docs/06-user-stories.md`); priority Home, Services, Contact
