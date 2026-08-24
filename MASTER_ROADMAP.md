@@ -55,7 +55,7 @@ Modern, professional, premium, and trustworthy.
 
 # Current Stage
 
-Phase 2 — Product Planning (user stories in progress; wireframes next)
+Phase 2 complete — ready for Phase 3 (Website Development) / Vercel
 
 ---
 
@@ -236,7 +236,7 @@ Gatekeeper QA can work with:
 - [x] PRD
 - [x] User Stories
 - [x] Acceptance Criteria
-- [ ] Wireframes
+- [x] Wireframes
 
 ---
 

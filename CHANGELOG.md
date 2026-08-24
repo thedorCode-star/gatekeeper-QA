@@ -2,6 +2,8 @@
 
 ## 2026-08-24
 
+- Added website wireframes (`Docs/07-wireframes.md`) for shared chrome, Home, Services, Contact
+- Marked Phase 2 wireframes complete; Phase 2 ready for Phase 3 build
 - Added website user stories and acceptance criteria (`Docs/06-user-stories.md`); priority Home, Services, Contact
 - Marked Phase 2 user stories and acceptance criteria complete in `MASTER_ROADMAP.md`
 - Scaffolded Next.js website (`website/`) with TypeScript, Tailwind, and brand tokens
