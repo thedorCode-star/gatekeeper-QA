@@ -55,7 +55,7 @@ Modern, professional, premium, and trustworthy.
 
 # Current Stage
 
-Sprint 0 - Business Foundation
+Phase 1 — Development Foundation (in progress)
 
 ---
 
@@ -81,7 +81,7 @@ SaaS startups building web and cloud applications.
 
 ## Positioning
 
-Gatekeeper QA helps SaaS startups build confidence in their software through professional testing, automation, and quality engineering support.git
+Gatekeeper QA helps SaaS startups build confidence in their software through professional testing, automation, and quality engineering support.
 
 # Services
 
@@ -210,29 +210,30 @@ Gatekeeper QA can work with:
 # Project Phases
 
 ## Phase 0 - Business Foundation
-- [ ] Project Charter
-- [ ] Vision
-- [ ] Mission
-- [ ] Business Goals
-- [ ] Brand Identity
-- [ ] Service Catalog
-- [ ] Client Onboarding
-- [ ] QA Methodology
+- [x] Project Charter
+- [x] Vision
+- [x] Mission
+- [x] Business Goals
+- [x] Brand Identity
+- [x] Service Catalog
+- [x] Client Onboarding
+- [x] QA Methodology
+
 
 ---
 
 ## Phase 1 - Development Foundation
-- [ ] Git Strategy
-- [ ] GitHub Repository
-- [ ] Next.js
-- [ ] TypeScript
-- [ ] Tailwind CSS
+- [x] Git Strategy
+- [x] GitHub Repository
+- [x] Next.js
+- [x] TypeScript
+- [x] Tailwind CSS
 - [ ] Vercel
 
 ---
 
 ## Phase 2 - Product Planning
-- [ ] PRD
+- [x] PRD
 - [ ] User Stories
 - [ ] Acceptance Criteria
 - [ ] Wireframes
