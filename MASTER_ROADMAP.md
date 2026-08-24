@@ -55,7 +55,7 @@ Modern, professional, premium, and trustworthy.
 
 # Current Stage
 
-Phase 1 — Development Foundation (in progress)
+Phase 2 — Product Planning (user stories in progress; wireframes next)
 
 ---
 
@@ -234,8 +234,8 @@ Gatekeeper QA can work with:
 
 ## Phase 2 - Product Planning
 - [x] PRD
-- [ ] User Stories
-- [ ] Acceptance Criteria
+- [x] User Stories
+- [x] Acceptance Criteria
 - [ ] Wireframes
 
 ---

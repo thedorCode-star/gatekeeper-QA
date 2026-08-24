@@ -2,6 +2,8 @@
 
 ## 2026-08-24
 
+- Added website user stories and acceptance criteria (`Docs/06-user-stories.md`); priority Home, Services, Contact
+- Marked Phase 2 user stories and acceptance criteria complete in `MASTER_ROADMAP.md`
 - Scaffolded Next.js website (`website/`) with TypeScript, Tailwind, and brand tokens
 - Added git strategy (`Docs/05-git-strategy.md`)
 - Marked Phase 1 stack items complete except Vercel; marked PRD done in Phase 2
