@@ -2,6 +2,9 @@
 
 ## 2026-08-24
 
+- Scaffolded Next.js website (`website/`) with TypeScript, Tailwind, and brand tokens
+- Added git strategy (`Docs/05-git-strategy.md`)
+- Marked Phase 1 stack items complete except Vercel; marked PRD done in Phase 2
 - Added client onboarding (`Docs/03-client-onboarding.md`): discovery → proposal → kickoff → cadence → handover
 - Added QA methodology (`Docs/04-qa-methodology.md`): risk-based approach, severity scale, reporting, release advice
 - Marked Phase 0 complete in `MASTER_ROADMAP.md`; next stage is Phase 1
